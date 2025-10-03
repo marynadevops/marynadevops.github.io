@@ -9,5 +9,6 @@ Today we:
 
 - Confirmed blog posts work with proper datetime front-matter
 - Verified sorting by timestamp (multiple posts/day)
+- rss and requirements.txt on ci
 
 This post completes our first “baseline + blog” experiment.
