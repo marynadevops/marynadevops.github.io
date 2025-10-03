@@ -2,3 +2,14 @@ site_name: My Docs
 theme:
   name: material
 
+plugins:
+  - search
+  - blog
+
+extra:
+  blog:
+    show_time: true
+
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
