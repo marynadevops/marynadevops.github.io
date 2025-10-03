@@ -3,7 +3,7 @@ title: "First Step with MkDocs Material"
 date: 2025-10-03T16:50:00+02:00
 ---
 
-_Published at 16:50 CET._
+~~_Published at 16:50 CET._~~
 
 This is our very first blog post 🎉
 
